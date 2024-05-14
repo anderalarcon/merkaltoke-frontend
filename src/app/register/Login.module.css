@@ -1,0 +1,27 @@
+
+.login_form {
+    border-radius: 20px;
+    max-width: 350px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin: auto;
+    padding: 20px 10px;
+    box-shadow: 3px 1px 25px 0px rgba(0,0,0,0.75);
+}
+
+.login_form_item {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    gap: 8px;
+}
+
+.login_form_item input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid black;
+}

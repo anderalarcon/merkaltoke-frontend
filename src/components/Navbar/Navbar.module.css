@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar_mid {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.navbar_mid a {
+    text-decoration: none;
+    color: inherit;
+}
